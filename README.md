@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashishgupta
+- 👋 Hi, I’m @shishgupta
 - 👀 I’m interested in Web Devloping.
 - 🌱 I’m currently learning Java Script and Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 ashishgupta19@hotmail.com
 
 <!---
 ashishg19/ashishg19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
