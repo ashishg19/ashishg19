@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shishgupta
 - 👀 I’m interested in Web Devloping.
-- 🌱 I’m currently learning Java Script and Python.
+- 🌱 I’m currently learning Java Script and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 ashishgupta19@hotmail.com
 
